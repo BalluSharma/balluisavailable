@@ -1,4 +1,4 @@
 # balluisavailable
 this is my first git reposatory
 <br>
-Author-Ballu Sharma
+Author-Ballu Sharma (Governmnt polytechnic roorkee baheri bareilly)
